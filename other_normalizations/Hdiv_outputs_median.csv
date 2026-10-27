@@ -1,0 +1,170 @@
+dataset;nivel_de_concatenacao;mean_accuracy;standard_deviation
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1];0.907905;0.042646
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2];0.921146;0.033521
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3];0.920751;0.06009
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/actinobacteria/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.929842;0.035849
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/animals/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.421429;0.098774
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1];0.32381;0.112788
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2];0.335714;0.106719
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3];0.457143;0.126348
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4];0.47619;0.114682
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/fungi/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.442857;0.069985
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1];0.860526;0.120967
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2];0.877105;0.03513
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3];0.907895;0.045352
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/kingdom/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.913158;0.040169
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1];0.666667;0.247207
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2];0.666667;0.247207
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3];0.666667;0.247207
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4];0.666667;0.247207
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.666667;0.247207
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/plant/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.641667;0.273988
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1];0.32;0.06532
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2];0.393333;0.061101
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3];0.393333;0.061101
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.606667;0.140475
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.573333;0.142049
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.54;0.171788
+/home/jvmerenda/hierarchical_divergence/networks/protist/graphs/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.54;0.171788
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1];0.233333;0.056765
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2];0.255;0.053774
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3];0.253333;0.058119
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4];0.236667;0.051532
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.25;0.035746
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.271667;0.039476
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.283333;0.040825
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.28;0.039299
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.29;0.046068
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.291667;0.047288
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.291667;0.049018
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.288333;0.038766
+/home/jvmerenda/hierarchical_divergence/networks/ENZYMES/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.305;0.038042
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1];0.674815;0.023818
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2];0.687331;0.024994
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3];0.692793;0.034498
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4];0.713449;0.037725
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.718806;0.030625
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.737661;0.029272
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.734974;0.029882
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.733164;0.031765
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.733164;0.028007
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.733164;0.026844
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.731371;0.025697
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.729577;0.026265
+/home/jvmerenda/hierarchical_divergence/networks/PROTEINS/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.729577;0.026265
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1];0.648246;0.054421
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2];0.744444;0.066935
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3];0.728363;0.061368
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4];0.776023;0.079543
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.792105;0.073791
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.782164;0.098476
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.814327;0.102642
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/MUTAG/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.819591;0.091142
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1];0.406667;0.026667
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2];0.416;0.032139
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3];0.416;0.032139
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4];0.416667;0.031305
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.416667;0.031305
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/IMDB-MULTI/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.417333;0.032
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1];0.6304;0.020742
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2];0.6966;0.028942
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3];0.6962;0.029182
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4];0.6962;0.029765
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.6962;0.029765
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.6962;0.029765
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.6962;0.029765
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.6962;0.029765
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.696;0.030093
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.696;0.030093
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.696;0.030093
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.696;0.030093
+/home/jvmerenda/hierarchical_divergence/networks/COLLAB/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.696;0.030093
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1];0.7645;0.028236
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2];0.7665;0.03486
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3];0.767;0.027677
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4];0.791;0.036729
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.7905;0.036225
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.793;0.034511
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.793;0.034511
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.793;0.034511
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.7925;0.034587
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.7925;0.034587
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.7925;0.034587
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.792;0.034728
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-BINARY/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.792;0.034728
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1];0.46289;0.01833
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2];0.463088;0.020828
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3];0.461089;0.01842
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4];0.466289;0.021459
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5];0.464487;0.024653
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6];0.466688;0.024688
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7];0.465688;0.023149
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8];0.465888;0.022572
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9];0.465288;0.022248
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10];0.465888;0.021924
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11];0.465889;0.021546
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12];0.465889;0.021546
+/home/jvmerenda/hierarchical_divergence/networks/REDDIT-MULTI-5K/;[H = 1, H = 2, H = 3, H = 4, H = 5, H = 6, H = 7, H = 8, H = 9, H = 10, H = 11, H = 12, H = 13];0.465889;0.021546
